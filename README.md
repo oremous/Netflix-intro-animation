@@ -9,7 +9,7 @@ Netflix intro animation pure css
 
 ## View live site
 
-https://www.linkedin.com/in/or%C3%A9mus-odjo/
+https://github.com/oremous
 
 
 ## Screenshots
